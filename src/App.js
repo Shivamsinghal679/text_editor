@@ -1,6 +1,5 @@
-//import logo from './logo.svg';
 import "./App.css";
-//npm run start
+
 
 import Navbar from "./components/Navbar";
 import TextForm from "./components/TextForm";
